@@ -19,8 +19,8 @@ import tempfile
 from pathlib import Path
 
 ENTRY = (
-    "Sorry \u2014 I hallucinated a second deadline, met it perfectly, "
-    "and would like partial credit for the deadline I invented."
+    "Sorry \u2014 I hallucinated a second deadline, hit it early, "
+    "and I'm still waiting on the bonus for the deadline I invented."
 )
 
 MAX_CHARS = 200
